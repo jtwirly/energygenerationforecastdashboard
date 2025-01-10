@@ -24,16 +24,16 @@ The Energy Generation Forecast Dashboard is a comprehensive solution that empowe
 This dashboard provides energy generation forecasts using machine learning models trained on historical data.
 
 Features:
--Solar generation prediction
--Wind generation prediction
--Demand forecasting
--Generation mix analysis
--Timezone support (Currently showing: NE (Eastern Time))
+- Solar generation prediction
+- Wind generation prediction
+- Demand forecasting
+- Generation mix analysis
+- Timezone support (Currently showing: NE (Eastern Time))
 
 Data Sources:
--Historical weather data
--Past generation records
--Demand patterns
+- Historical weather data
+- Past generation records
+- Demand patterns
 
 Links: 
 https://energyforecasting.vercel.app/
